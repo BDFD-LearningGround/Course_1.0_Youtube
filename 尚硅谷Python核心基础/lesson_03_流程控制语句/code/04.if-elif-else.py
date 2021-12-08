@@ -1,3 +1,11 @@
+'''
+Author: your name
+Date: 2021-11-22 16:28:36
+LastEditTime: 2021-12-06 14:48:29
+LastEditors: your name
+Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+FilePath: \DataAnalyst_02_Course-Material-\尚硅谷Python核心基础\lesson_03_流程控制语句\code\04.if-elif-else.py
+'''
 # if-elif-else语句
 # 语法：
 #   if 条件表达式 :
@@ -10,7 +18,7 @@
 #       代码块
 #   else :
 #       代码块
-#       
+      
 # 执行流程：
 #   if-elif-else语句在执行时，会自上向下依次对条件表达式进行求值判断，
 #       如果表达式的结果为True，则执行当前代码块，然后语句结束
