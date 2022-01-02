@@ -1,3 +1,11 @@
+'''
+Author: BDFD
+Date: 2021-11-15 13:50:55
+LastEditTime: 2021-12-18 20:26:40
+LastEditors: BDFD
+Description: 
+FilePath: \code\13.break和continue.py
+'''
 # break
 # break可以用来立即退出循环语句（包括else）
 # continue
